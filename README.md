@@ -14,3 +14,5 @@ The dataset is available as an Excel file in the repository, which serves as a c
 
 A dashboard is created using Google Looker Studio to visualize the insights derived from the Our World in Data COVID-19 dataset. The dashboard provides interactive visualizations to explore various aspects of the COVID-19 data, including trends over time, regional comparisons, and vaccination progress.
 You can access the dashboard [here](https://lookerstudio.google.com/reporting/b4c1d903-97da-47ca-bafd-d8d4a20687f8).
+
+![Dashboard](image.png)
